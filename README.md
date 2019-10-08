@@ -4,7 +4,7 @@ Essa API tem por função receber um arquivo HTML de processo jurídicos, proces
 
 Vide arquivos anexos dos programas e imagens de exemplos das funcionalidades e ferramentas.
 
-ATENÇÂO: A API não está finalizada e está habilitada somente para teste na função GET. Ou seja, ainda não está funcional conforme a descrição acima. Segue abaixo o endpoint para execução da API e retorno.
+ATENÇÃO: A API não está finalizada e está habilitada somente para teste na função GET. Ou seja, ainda não está funcional conforme a descrição acima. Segue abaixo o endpoint para execução da API e retorno.
 
 O programa LerProcesso.py retrata o crawler para leitura de arquivo html, leitura dos dados do processo e disponibilização do retorno em formato JSON.
 
